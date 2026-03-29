@@ -422,7 +422,7 @@ scripts/compile.sh
 
 **Charishma**
 
-* GitHub: [https://github.com/ishitasingh17-cloud](https://github.com/Charishma)
+* GitHub: [https://github.com/ishitasingh17-cloud](https://github.com/pasala24bai10545-dot)
 * Project: Campus Course & Records Manager
 
 ---
